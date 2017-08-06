@@ -1,8 +1,8 @@
 # Notes from hacking on the SHA2017 Badge
 
-[SHA2017 Wiki Page](https://wiki.sha2017.org/w/Projects:Badge)
-[SHA2017 Badge Hathery](https://badge.sha2017.org/)
-[MicroPython API Documentation](https://docs.micropython.org/en/latest/esp8266/index.html)
+* [SHA2017 Wiki Page](https://wiki.sha2017.org/w/Projects:Badge)
+* [SHA2017 Badge Hathery](https://badge.sha2017.org/)
+* [MicroPython API Documentation](https://docs.micropython.org/en/latest/esp8266/index.html)
 
 When connecting the badge to y our computer over use, it will appear as a usb serial device. You can connect to it with the following settings:
 
