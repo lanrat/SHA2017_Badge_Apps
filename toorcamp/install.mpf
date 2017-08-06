@@ -1,0 +1,9 @@
+open ttyUSB0 
+cd lib
+rm toorcamp
+md toorcamp
+cd toorcamp
+put __init__.py
+put toorcamp.png
+put toorcon.png
+close
