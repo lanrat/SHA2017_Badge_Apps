@@ -1,0 +1,7 @@
+open ttyUSB0 
+cd lib
+rm wardrive
+md wardrive
+cd wardrive
+put __init__.py
+close
